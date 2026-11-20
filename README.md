@@ -13,6 +13,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 | [Robot_arm](https://github.com/praha6248/Robot_arm) | Symulacja ramienia robota: kinematyka odwrotna, chwytanie i układanie klocków, tekstowy język robota | C++, OpenGL |
 | [evolutionary-path-planning](https://github.com/praha6248/evolutionary-path-planning) | Algorytm genetyczny do planowania ścieżki robota mobilnego | C++, pybind11, Python |
 | [planar-quadrotor-lqr](https://github.com/praha6248/planar-quadrotor-lqr) | Symulacja quadrotora 2D sterowanego regulatorem LQR | C++, Eigen, SDL2 |
+| [Embedded_Systems_Project_2026](https://github.com/ev3nt-h0riz0n/Embedded_Systems_Project_2026) | Firmware bare-metal robota mobilnego (UniGe, projekt zespołowy): pętla sterowania 500 Hz, automat stanów z omijaniem przeszkód, PWM 10 kHz, UART na przerwaniach z buforami cyklicznymi, odczyt IMU przez SPI | C, dsPIC33, XC16 |
 | [Domestic-Service-Robot…](https://github.com/praha6248/Domestic-Service-Robot-Cooling-and-Quality-Degradation) | Planowanie zadań robota-baristy w PDDL / PDDL+ | PDDL, ENHSP |
 | [physics-sandbox-3d](https://github.com/praha6248/physics-sandbox-3d) | Silnik fizyki: zderzenia, kruszenie, zmienna grawitacja | React, Three.js |
 | [signal-processing-cpp](https://github.com/praha6248/signal-processing-cpp) | Przetwarzanie sygnałów w C++ z bindingami do Pythona (DFT, szum, WAV) | C++, pybind11, Matplot++ |
@@ -36,6 +37,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 
 ### Technologie
 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
