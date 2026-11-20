@@ -9,7 +9,8 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 
 | Projekt | Opis | Technologie |
 |---|---|---|
-| [Robot_arm](https://github.com/praha6248/Robot_arm) | Symulacja ramienia robota antropomorficznego | C++ |
+| [Robot_arm-nl](https://github.com/praha6248/Robot_arm-nl) | Ramię robota sterowane językiem naturalnym: dostrojony model 360M (lokalnie, llama.cpp) tłumaczy polecenia po polsku na ruchy robota, 40/40 w teście (więcej niż Gemma 3 4B) | Python, llama.cpp, PyTorch, C++ |
+| [Robot_arm](https://github.com/praha6248/Robot_arm) | Symulacja ramienia robota: kinematyka odwrotna, chwytanie i układanie klocków, tekstowy język robota | C++, OpenGL |
 | [evolutionary-path-planning](https://github.com/praha6248/evolutionary-path-planning) | Algorytm genetyczny do planowania ścieżki robota mobilnego | C++, pybind11, Python |
 | [planar-quadrotor-lqr](https://github.com/praha6248/planar-quadrotor-lqr) | Symulacja quadrotora 2D sterowanego regulatorem LQR | C++, Eigen, SDL2 |
 | [Domestic-Service-Robot…](https://github.com/praha6248/Domestic-Service-Robot-Cooling-and-Quality-Degradation) | Planowanie zadań robota-baristy w PDDL / PDDL+ | PDDL, ENHSP |
@@ -36,6 +37,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
