@@ -27,6 +27,12 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 | [praha6248.github.io](https://github.com/praha6248/praha6248.github.io) | Portfolio w formie sceny 3D | React Three Fiber |
 | [budget-app](https://github.com/praha6248/budget-app) | Desktopowa aplikacja do śledzenia wydatków | C#, WinForms, MySQL |
 
+### Organizacje
+
+| Organizacja | Opis | Technologie |
+|---|---|---|
+| [PDF Diploma Checker](https://github.com/PDF-Diploma-Checker) | Desktopowa aplikacja do automatycznej kontroli prac dyplomowych w PDF: typografia (interlinia, marginesy, czcionki), język, bibliografia wg PN-ISO 690 i ocena merytoryczna modelem językowym; zwraca PDF z komentarzami i raport. Repozytoria: [app](https://github.com/PDF-Diploma-Checker/app), [strona pobierania](https://github.com/PDF-Diploma-Checker/diploma-checker-download) (Windows, Linux) | Python, JavaScript |
+
 ### Technologie
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
