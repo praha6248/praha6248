@@ -16,6 +16,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 | [Domestic-Service-Robot…](https://github.com/praha6248/Domestic-Service-Robot-Cooling-and-Quality-Degradation) | Planowanie zadań robota-baristy w PDDL / PDDL+ | PDDL, ENHSP |
 | [physics-sandbox-3d](https://github.com/praha6248/physics-sandbox-3d) | Silnik fizyki: zderzenia, kruszenie, zmienna grawitacja | React, Three.js |
 | [signal-processing-cpp](https://github.com/praha6248/signal-processing-cpp) | Przetwarzanie sygnałów w C++ z bindingami do Pythona (DFT, szum, WAV) | C++, pybind11, Matplot++ |
+| [fastcv](https://github.com/praha6248/fastcv) · [adaptiveThreshold](https://github.com/BaTo-n/adaptiveThreshold) | Filtry OpenCV przepisane na CUDA z bindingami PyTorch. Razem z [@BaTo-n](https://github.com/BaTo-n) dodałyśmy jądro progowania adaptacyjnego (pamięć shared/constant, Thrust, CUDA Streams, kopiowanie asynchroniczne) | CUDA, C++, Thrust, PyTorch |
 
 ### Aplikacje
 
@@ -36,6 +37,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 ### Technologie
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
