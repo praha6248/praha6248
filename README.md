@@ -24,8 +24,7 @@
 natalia = {
     "does":     "robotics, simulations, ML and 3D graphics in the browser",
     "loves":    "C++, logic-heavy code, things that look beautiful",
-    "work":     "neural-network power estimation for the energy sector",
-    "studied":  "Embedded Systems @ University of Genoa (Erasmus)",
+    "ux_ui":    "interfaces that feel obvious, look calm and stay out of the way",
     "now":      "Polish OCR, robot RL in Newton, LQR, path planning",
     "rule":     "measure first, then optimise.",
 }
