@@ -30,10 +30,6 @@ natalia = {
 }
 ```
 
-<p align="center">
-  <a href="https://github.com/praha6248/Robot_arm-nl"><img src="https://raw.githubusercontent.com/praha6248/Robot_arm-nl/HEAD/docs/demo.gif" height="220" /></a>
-</p>
-
 <a id="projects"></a>
 
 ### Robotics & simulation
