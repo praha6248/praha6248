@@ -16,7 +16,7 @@
 
 <br/>
 
-### Nowe na biurku
+### Najnowsze
 
 > **[CzytajPDF](https://github.com/praha6248/CzytajPDF)** &nbsp; <img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/Tesseract-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/pypdf-8e8e8e?style=flat-square" />
 > Polskie i angielskie PDF-y oraz skany w jednym wywołaniu. Tekst czytany strona po stronie, automatyczny OCR tam, gdzie warstwa tekstowa jest pusta albo ma „krzaki”, korekta polskich znaków (Morfeusz 2). **CER 0,09%** na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en`.
@@ -25,50 +25,6 @@
 > Wyzwanie UZP: odwołania w zamówieniach publicznych (PDF, skany) zamieniane na ustrukturyzowany JSON. Z tego projektu wyrosło CzytajPDF.
 
 <a id="projects"></a>
-
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/llama.cpp-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/C++-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/praha6248/Robot_arm-nl">Robot arm · natural language</a></h4>
-<sub>Polskie polecenia → ruchy robota. Dostrojony model 360M lokalnie w llama.cpp, 40/40 w teście.</sub>
-</td>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/PDF-Diploma-Checker/app">PDF Diploma Checker</a></h4>
-<sub>Automatyczna kontrola prac dyplomowych: typografia, język, bibliografia PN-ISO 690, ocena LLM.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/C++-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/OpenGL-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/praha6248/Robot_arm">Robot arm simulation</a></h4>
-<sub>Kinematyka odwrotna, chwytanie i układanie klocków, tekstowy język robota.</sub>
-</td>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/C++-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/Eigen-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/SDL2-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/praha6248/planar-quadrotor-lqr">Planar quadrotor · LQR</a></h4>
-<sub>Symulacja quadrotora 2D z regulatorem LQR.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/C-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/dsPIC33-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/ev3nt-h0riz0n/Embedded_Systems_Project_2026">Embedded firmware · mobile robot</a></h4>
-<sub>Bare-metal na dsPIC33 (UniGe): pętla 500 Hz, PWM 10 kHz, UART na przerwaniach, IMU po SPI.</sub>
-</td>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/C++-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/pybind11-8e8e8e?style=flat-square" />
-<h4><a href="https://github.com/praha6248/evolutionary-path-planning">Evolutionary path planning</a></h4>
-<sub>Algorytm genetyczny do planowania ścieżki robota mobilnego.</sub>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Wszystkie projekty</b></summary>
 
 ### Robotyka i symulacje
 
@@ -100,7 +56,6 @@
 |---|---|---|
 | [PDF Diploma Checker](https://github.com/PDF-Diploma-Checker) | Desktopowa aplikacja do automatycznej kontroli prac dyplomowych w PDF: typografia (interlinia, marginesy, czcionki), język, bibliografia wg PN-ISO 690 i ocena merytoryczna modelem językowym; zwraca PDF z komentarzami i raport. Repozytoria: [app](https://github.com/PDF-Diploma-Checker/app), [strona pobierania](https://github.com/PDF-Diploma-Checker/diploma-checker-download) (Windows, Linux) | Python, JavaScript |
 
-</details>
 
 ### Stack
 
