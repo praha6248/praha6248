@@ -14,13 +14,13 @@
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-FF93A8?style=for-the-badge" /></a>
 <a href="https://praha6248.github.io/Natalia_Plocha_CV.pdf"><img src="https://img.shields.io/badge/Resume-222222?style=for-the-badge" /></a>
 
-<sub>✨ kliknij obrazek, żeby usiąść przy moim biurku 3D ✨</sub>
+<sub>kliknij obrazek, żeby usiąść przy moim biurku 3D</sub>
 
 </div>
 
 <br/>
 
-### 🌸 Nowe na biurku
+### Nowe na biurku
 
 > **[CzytajPDF](https://github.com/praha6248/CzytajPDF)** &nbsp; <img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/Tesseract-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/pypdf-8e8e8e?style=flat-square" />
 > Polskie i angielskie PDF-y oraz skany w jednym wywołaniu. Tekst czytany strona po stronie, automatyczny OCR tam, gdzie warstwa tekstowa jest pusta albo ma „krzaki”, korekta polskich znaków (Morfeusz 2). **CER 0,09%** na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en`.
@@ -30,7 +30,7 @@
 
 <a id="projects"></a>
 
-### 🖥️ Projects
+### Projects
 
 <table>
 <tr>
@@ -112,10 +112,10 @@
 
 </details>
 
-### 🎀 Stack
+### Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-2b2b2b?style=flat-square&color=2b2b2b&logo=c&logoColor=FF93A8" alt="C" /> <img src="https://img.shields.io/badge/C++-2b2b2b?style=flat-square&color=2b2b2b&logo=cplusplus&logoColor=FF93A8" alt="C++" /> <img src="https://img.shields.io/badge/CUDA-2b2b2b?style=flat-square&color=2b2b2b&logo=nvidia&logoColor=FF93A8" alt="CUDA" /> <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&color=2b2b2b&logo=python&logoColor=FF93A8" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&color=2b2b2b&logo=javascript&logoColor=FF93A8" alt="JavaScript" /> <img src="https://img.shields.io/badge/Dart-2b2b2b?style=flat-square&color=2b2b2b&logo=dart&logoColor=FF93A8" alt="Dart" /> <img src="https://img.shields.io/badge/C%23-2b2b2b?style=flat-square&color=2b2b2b&logo=dotnet&logoColor=FF93A8" alt="C#" /> <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&color=2b2b2b&logo=react&logoColor=FF93A8" alt="React" /> <img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&color=2b2b2b&logo=threedotjs&logoColor=FF93A8" alt="Three.js" /> <img src="https://img.shields.io/badge/Flutter-2b2b2b?style=flat-square&color=2b2b2b&logo=flutter&logoColor=FF93A8" alt="Flutter" /> <img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&color=2b2b2b&logo=pytorch&logoColor=FF93A8" alt="PyTorch" /> <img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&color=2b2b2b&logo=fastapi&logoColor=FF93A8" alt="FastAPI" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&color=2b2b2b&logo=cmake&logoColor=FF93A8" alt="CMake" /> <img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&color=2b2b2b&logo=docker&logoColor=FF93A8" alt="Docker" />
 </p>
 
-<p align="center"><sub>made with 💗 · <a href="https://praha6248.github.io">praha6248.github.io</a></sub></p>
+<p align="center"><sub><a href="https://praha6248.github.io">praha6248.github.io</a></sub></p>
