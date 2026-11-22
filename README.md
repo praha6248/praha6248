@@ -1,11 +1,41 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=F7D774&center=true&vCenter=true&width=600&lines=%E2%9D%AF+simulation+to+real+robot;%E2%9D%AF+C%2B%2B+%C2%B7+CUDA+%C2%B7+ML;%E2%9D%AF+pixels+that+look+good" alt="typing" />
+
 ## Natalia Płocha
 
-Robotyka, symulacje i grafika 3D w przeglądarce: kinematyka manipulatorów, planowanie ścieżek,
-sterowanie, silniki fizyki i interaktywne wizualizacje.
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B1E2D?style=for-the-badge&logo=githubpages&logoColor=white)](https://praha6248.github.io)
+[![CV PDF](https://img.shields.io/badge/CV%20PDF-8B1E2D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://praha6248.github.io/Natalia_Plocha_CV.pdf)
 
-**Portfolio:** [praha6248.github.io](https://praha6248.github.io) · **CV:** [PDF](https://praha6248.github.io/Natalia_Plocha_CV.pdf)
+![C++](https://img.shields.io/badge/C++-F4B6D2?style=for-the-badge&labelColor=111111)
+![ML in energy sector](https://img.shields.io/badge/ML%20in%20energy%20sector-F4B6D2?style=for-the-badge&labelColor=111111)
+![Erasmus UniGe](https://img.shields.io/badge/Erasmus%20UniGe-F4B6D2?style=for-the-badge&labelColor=111111)
+[![CzytajPDF CER 0.09%](https://img.shields.io/badge/CzytajPDF%20CER%200.09%-F4B6D2?style=for-the-badge&labelColor=111111)](https://github.com/praha6248/CzytajPDF)
+[![HackNation 2026](https://img.shields.io/badge/HackNation%202026-F4B6D2?style=for-the-badge&labelColor=111111)](https://github.com/praha6248/odwolania2Json)
 
-### Robotyka i symulacje
+</div>
+
+### 🧬 about
+
+```python
+natalia = {
+    "does":     "robotics, simulations, ML and 3D graphics in the browser",
+    "loves":    "C++, logic-heavy code, things that look beautiful",
+    "work":     "neural-network power estimation for the energy sector",
+    "studied":  "Embedded Systems @ University of Genoa (Erasmus)",
+    "now":      "Polish OCR, robot RL in Newton, LQR, path planning",
+    "rule":     "measure first, then optimise.",
+}
+```
+
+### 🆕 najnowsze
+
+| Projekt | Opis | Technologie |
+|---|---|---|
+| [CzytajPDF](https://github.com/praha6248/CzytajPDF) | Biblioteka i CLI do polskich i angielskich PDF-ów oraz skanów: tekst odczytywany strona po stronie, automatyczny OCR dla stron bez warstwy tekstowej lub z „krzakami”, korekta polskich znaków (Morfeusz 2) z zachowaniem surowego odczytu. CER 0,09% na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en`, CI | Python, Tesseract, RapidOCR, pypdf |
+| [odwolania2Json](https://github.com/praha6248/odwolania2Json) | HackNation 2026, wyzwanie UZP: zamiana odwołań w zamówieniach publicznych (PDF, skany) na ustrukturyzowany JSON. Z tego projektu wyrosła biblioteka CzytajPDF | Python, OCR |
+
+### ⚙️ Robotyka i symulacje
 
 | Projekt | Opis | Technologie |
 |---|---|---|
@@ -19,7 +49,7 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 | [signal-processing-cpp](https://github.com/praha6248/signal-processing-cpp) | Przetwarzanie sygnałów w C++ z bindingami do Pythona (DFT, szum, WAV) | C++, pybind11, Matplot++ |
 | [fastcv](https://github.com/praha6248/fastcv) · [adaptiveThreshold](https://github.com/BaTo-n/adaptiveThreshold) | Filtry OpenCV przepisane na CUDA z bindingami PyTorch. Razem z [@BaTo-n](https://github.com/BaTo-n) dodałyśmy jądro progowania adaptacyjnego (pamięć shared/constant, Thrust, CUDA Streams, kopiowanie asynchroniczne) | CUDA, C++, Thrust, PyTorch |
 
-### Aplikacje
+### 📱 Aplikacje
 
 | Projekt | Opis | Technologie |
 |---|---|---|
@@ -29,25 +59,29 @@ sterowanie, silniki fizyki i interaktywne wizualizacje.
 | [praha6248.github.io](https://github.com/praha6248/praha6248.github.io) | Portfolio w formie sceny 3D | React Three Fiber |
 | [budget-app](https://github.com/praha6248/budget-app) | Desktopowa aplikacja do śledzenia wydatków | C#, WinForms, MySQL |
 
-### Organizacje
+### 🏛️ Organizacje
 
 | Organizacja | Opis | Technologie |
 |---|---|---|
 | [PDF Diploma Checker](https://github.com/PDF-Diploma-Checker) | Desktopowa aplikacja do automatycznej kontroli prac dyplomowych w PDF: typografia (interlinia, marginesy, czcionki), język, bibliografia wg PN-ISO 690 i ocena merytoryczna modelem językowym; zwraca PDF z komentarzami i raport. Repozytoria: [app](https://github.com/PDF-Diploma-Checker/app), [strona pobierania](https://github.com/PDF-Diploma-Checker/diploma-checker-download) (Windows, Linux) | Python, JavaScript |
 
-### Technologie
+### 🛠️ Technologie
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
