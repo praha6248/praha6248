@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Robotics%20·%20C++%20·%20Python-c9a3e8?style=flat-square" /> <img src="https://img.shields.io/badge/4th--year%20student%20·%20Gdańsk%20Tech-FF93A8?style=flat-square" />
 
-<sub>Robotyka, symulacje i grafika 3D w przeglądarce: kinematyka manipulatorów, planowanie ścieżek, sterowanie, silniki fizyki i interaktywne wizualizacje.</sub>
+<sub>Robotics, simulation and 3D graphics in the browser: manipulator kinematics, path planning, control, physics engines, interactive visualisations and clean UX/UI.</sub>
 
 <br/><br/>
 
@@ -32,38 +32,37 @@ natalia = {
 
 <a id="projects"></a>
 
-### Robotyka i symulacje
+### Robotics & simulation
 
-| Projekt | Opis | Technologie |
+| Project | Description | Tech |
 |---|---|---|
-| [Robot_arm-nl](https://github.com/praha6248/Robot_arm-nl) | Ramię robota sterowane językiem naturalnym: dostrojony model 360M (lokalnie, llama.cpp) tłumaczy polecenia po polsku na ruchy robota, 40/40 w teście (więcej niż Gemma 3 4B) | Python, llama.cpp, PyTorch, C++ |
-| [Robot_arm](https://github.com/praha6248/Robot_arm) | Symulacja ramienia robota: kinematyka odwrotna, chwytanie i układanie klocków, tekstowy język robota | C++, OpenGL |
-| [evolutionary-path-planning](https://github.com/praha6248/evolutionary-path-planning) | Algorytm genetyczny do planowania ścieżki robota mobilnego | C++, pybind11, Python |
-| [planar-quadrotor-lqr](https://github.com/praha6248/planar-quadrotor-lqr) | Symulacja quadrotora 2D sterowanego regulatorem LQR | C++, Eigen, SDL2 |
-| [Embedded_Systems_Project_2026](https://github.com/ev3nt-h0riz0n/Embedded_Systems_Project_2026) | Firmware bare-metal robota mobilnego (UniGe, projekt zespołowy): pętla sterowania 500 Hz, automat stanów z omijaniem przeszkód, PWM 10 kHz, UART na przerwaniach z buforami cyklicznymi, odczyt IMU przez SPI | C, dsPIC33, XC16 |
-| [Domestic-Service-Robot…](https://github.com/praha6248/Domestic-Service-Robot-Cooling-and-Quality-Degradation) | Planowanie zadań robota-baristy w PDDL / PDDL+ | PDDL, ENHSP |
-| [physics-sandbox-3d](https://github.com/praha6248/physics-sandbox-3d) | Silnik fizyki: zderzenia, kruszenie, zmienna grawitacja | React, Three.js |
-| [signal-processing-cpp](https://github.com/praha6248/signal-processing-cpp) | Przetwarzanie sygnałów w C++ z bindingami do Pythona (DFT, szum, WAV) | C++, pybind11, Matplot++ |
-| [fastcv](https://github.com/praha6248/fastcv) · [adaptiveThreshold](https://github.com/BaTo-n/adaptiveThreshold) | Filtry OpenCV przepisane na CUDA z bindingami PyTorch. Razem z [@BaTo-n](https://github.com/BaTo-n) dodałyśmy jądro progowania adaptacyjnego (pamięć shared/constant, Thrust, CUDA Streams, kopiowanie asynchroniczne) | CUDA, C++, Thrust, PyTorch |
+| [Robot_arm-nl](https://github.com/praha6248/Robot_arm-nl) | Robot arm controlled with natural language: a fine-tuned 360M model running locally in llama.cpp turns Polish commands into robot moves, 40/40 on the test set (beats Gemma 3 4B) | Python, llama.cpp, PyTorch, C++ |
+| [Embedded_Systems_Project_2026](https://github.com/ev3nt-h0riz0n/Embedded_Systems_Project_2026) | Bare-metal firmware for a mobile robot (UniGe, team project): 500 Hz control loop, state machine with obstacle avoidance, 10 kHz PWM, interrupt-driven UART with ring buffers, IMU over SPI | C, dsPIC33, XC16 |
+| [fastcv](https://github.com/praha6248/fastcv) · [adaptiveThreshold](https://github.com/BaTo-n/adaptiveThreshold) | OpenCV filters rewritten in CUDA with PyTorch bindings. Together with [@BaTo-n](https://github.com/BaTo-n) we added an adaptive thresholding kernel (shared/constant memory, Thrust, CUDA Streams, async copies) | CUDA, C++, Thrust, PyTorch |
+| [Robot_arm](https://github.com/praha6248/Robot_arm) | Robot arm simulation: inverse kinematics, grabbing and stacking blocks, a text-based robot language | C++, OpenGL |
+| [planar-quadrotor-lqr](https://github.com/praha6248/planar-quadrotor-lqr) | 2D quadrotor simulation controlled by an LQR regulator | C++, Eigen, SDL2 |
+| [evolutionary-path-planning](https://github.com/praha6248/evolutionary-path-planning) | Genetic algorithm for mobile robot path planning | C++, pybind11, Python |
+| [physics-sandbox-3d](https://github.com/praha6248/physics-sandbox-3d) | Physics engine: collisions, fracturing, variable gravity | React, Three.js |
+| [signal-processing-cpp](https://github.com/praha6248/signal-processing-cpp) | Signal processing in C++ with Python bindings (DFT, noise, WAV) | C++, pybind11, Matplot++ |
+| [Domestic-Service-Robot…](https://github.com/praha6248/Domestic-Service-Robot-Cooling-and-Quality-Degradation) | Task planning for a barista robot in PDDL / PDDL+ | PDDL, ENHSP |
 
-### Aplikacje
+### Applications
 
-| Projekt | Opis | Technologie |
+| Project | Description | Tech |
 |---|---|---|
-| [CzytajPDF](https://github.com/praha6248/CzytajPDF) | Biblioteka i CLI do polskich i angielskich PDF-ów oraz skanów: tekst strona po stronie, automatyczny OCR stron bez warstwy tekstowej lub z „krzakami”, korekta polskich znaków (Morfeusz 2). CER 0,09% na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en` | Python, Tesseract, RapidOCR, pypdf |
-| [odwolania2Json](https://github.com/praha6248/odwolania2Json) | HackNation 2026, wyzwanie UZP: odwołania w zamówieniach publicznych (PDF, skany) zamieniane na ustrukturyzowany JSON. Z tego projektu wyrosło CzytajPDF | Python, OCR |
-| [HackYeah_2026](https://github.com/Lucjuszo/HackYeah_2026) | Focus Map ([thirdplaces.pl](https://thirdplaces.pl)): mapa miejsc do nauki i pracy | Flutter, FastAPI, MongoDB |
-| [ambient-assisted-living-app](https://github.com/praha6248/ambient-assisted-living-app) | Monitorowanie parametrów życiowych i lokalizacji osób starszych | Flutter, Tor |
-| [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk) | Interaktywna mapa Gdańska: wydarzenia, zgłoszenia, demografia | Leaflet, FastAPI |
-| [praha6248.github.io](https://github.com/praha6248/praha6248.github.io) | Portfolio w formie sceny 3D | React Three Fiber |
-| [budget-app](https://github.com/praha6248/budget-app) | Desktopowa aplikacja do śledzenia wydatków | C#, WinForms, MySQL |
+| [CzytajPDF](https://github.com/praha6248/CzytajPDF) | Library and CLI for Polish and English PDFs and scans: page-by-page text, automatic OCR for pages with missing or garbled text layers, Polish diacritics correction (Morfeusz 2). 0.09% CER on document headers, `readpdf-pl` / `readpdf-en` packages | Python, Tesseract, RapidOCR, pypdf |
+| [odwolania2Json](https://github.com/praha6248/odwolania2Json) | HackNation 2026, UZP challenge: public procurement appeals (PDFs, scans) converted into structured JSON. CzytajPDF grew out of this project | Python, OCR |
+| [HackYeah_2026](https://github.com/Lucjuszo/HackYeah_2026) | Focus Map ([thirdplaces.pl](https://thirdplaces.pl)): a map of places to study and work | Flutter, FastAPI, MongoDB |
+| [praha6248.github.io](https://github.com/praha6248/praha6248.github.io) | Portfolio as an interactive 3D scene | React Three Fiber |
+| [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk) | Interactive map of Gdańsk: events, issue reports, demographics | Leaflet, FastAPI |
+| [ambient-assisted-living-app](https://github.com/praha6248/ambient-assisted-living-app) | Monitoring vital signs and location of elderly people | Flutter, Tor |
+| [budget-app](https://github.com/praha6248/budget-app) | Desktop expense tracker | C#, WinForms, MySQL |
 
-### Organizacje
+### Organizations
 
-| Organizacja | Opis | Technologie |
+| Organization | Description | Tech |
 |---|---|---|
-| [PDF Diploma Checker](https://github.com/PDF-Diploma-Checker) | Desktopowa aplikacja do automatycznej kontroli prac dyplomowych w PDF: typografia (interlinia, marginesy, czcionki), język, bibliografia wg PN-ISO 690 i ocena merytoryczna modelem językowym; zwraca PDF z komentarzami i raport. Repozytoria: [app](https://github.com/PDF-Diploma-Checker/app), [strona pobierania](https://github.com/PDF-Diploma-Checker/diploma-checker-download) (Windows, Linux) | Python, JavaScript |
-
+| [PDF Diploma Checker](https://github.com/PDF-Diploma-Checker) | Desktop app that automatically reviews diploma theses in PDF: typography (line spacing, margins, fonts), language, bibliography per PN-ISO 690 and content review with a language model; returns an annotated PDF and a report. Repos: [app](https://github.com/PDF-Diploma-Checker/app), [download page](https://github.com/PDF-Diploma-Checker/diploma-checker-download) (Windows, Linux) | Python, JavaScript |
 
 ### Stack
 
