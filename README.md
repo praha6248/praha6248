@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF93A8&center=true&vCenter=true&width=600&lines=%E2%9D%AF+simulation+to+real+robot;%E2%9D%AF+C%2B%2B+%C2%B7+CUDA+%C2%B7+ML;%E2%9D%AF+pixels+that+look+good" alt="typing" />
+
 # Natalia Płocha
 
 <img src="https://img.shields.io/badge/Robotics%20·%20C++%20·%20Python-c9a3e8?style=flat-square" /> <img src="https://img.shields.io/badge/4th--year%20student%20·%20Gdańsk%20Tech-FF93A8?style=flat-square" />
@@ -16,13 +18,18 @@
 
 <br/>
 
-### Najnowsze
+### about
 
-> **[CzytajPDF](https://github.com/praha6248/CzytajPDF)** &nbsp; <img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/Tesseract-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/pypdf-8e8e8e?style=flat-square" />
-> Polskie i angielskie PDF-y oraz skany w jednym wywołaniu. Tekst czytany strona po stronie, automatyczny OCR tam, gdzie warstwa tekstowa jest pusta albo ma „krzaki”, korekta polskich znaków (Morfeusz 2). **CER 0,09%** na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en`.
-
-> **[odwolania2Json](https://github.com/praha6248/odwolania2Json)** &nbsp; <img src="https://img.shields.io/badge/Python-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/OCR-8e8e8e?style=flat-square" /> <img src="https://img.shields.io/badge/HackNation%202026-8e8e8e?style=flat-square" />
-> Wyzwanie UZP: odwołania w zamówieniach publicznych (PDF, skany) zamieniane na ustrukturyzowany JSON. Z tego projektu wyrosło CzytajPDF.
+```python
+natalia = {
+    "does":     "robotics, simulations, ML and 3D graphics in the browser",
+    "loves":    "C++, logic-heavy code, things that look beautiful",
+    "work":     "neural-network power estimation for the energy sector",
+    "studied":  "Embedded Systems @ University of Genoa (Erasmus)",
+    "now":      "Polish OCR, robot RL in Newton, LQR, path planning",
+    "rule":     "measure first, then optimise.",
+}
+```
 
 <a id="projects"></a>
 
@@ -44,6 +51,8 @@
 
 | Projekt | Opis | Technologie |
 |---|---|---|
+| [CzytajPDF](https://github.com/praha6248/CzytajPDF) | Biblioteka i CLI do polskich i angielskich PDF-ów oraz skanów: tekst strona po stronie, automatyczny OCR stron bez warstwy tekstowej lub z „krzakami”, korekta polskich znaków (Morfeusz 2). CER 0,09% na nagłówkach pism, paczki `readpdf-pl` / `readpdf-en` | Python, Tesseract, RapidOCR, pypdf |
+| [odwolania2Json](https://github.com/praha6248/odwolania2Json) | HackNation 2026, wyzwanie UZP: odwołania w zamówieniach publicznych (PDF, skany) zamieniane na ustrukturyzowany JSON. Z tego projektu wyrosło CzytajPDF | Python, OCR |
 | [HackYeah_2026](https://github.com/Lucjuszo/HackYeah_2026) | Focus Map ([thirdplaces.pl](https://thirdplaces.pl)): mapa miejsc do nauki i pracy | Flutter, FastAPI, MongoDB |
 | [ambient-assisted-living-app](https://github.com/praha6248/ambient-assisted-living-app) | Monitorowanie parametrów życiowych i lokalizacji osób starszych | Flutter, Tor |
 | [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk) | Interaktywna mapa Gdańska: wydarzenia, zgłoszenia, demografia | Leaflet, FastAPI |
