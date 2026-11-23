@@ -19,8 +19,8 @@ Currently working on an energy production estimator for wind and PV farms at Ins
 
 ## Hackathons
 
-- B Est Hackathon 2025 – [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk), an interactive map of Gdańsk
-- HackNation 2026 – [odwolania2Json](https://github.com/praha6248/odwolania2Json) and [zwcp_hnnation2026](https://github.com/TofTo23/zwcp_hnnation2026)
+- BEST Hackathon 2025 – [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk), an interactive map of Gdańsk
+- HackNation 2026 – [odwolania2Json](https://github.com/praha6248/odwolania2Json)
 - HackYeah 2026 – [Focus Map](https://thirdplaces.pl), a map of places to study and work
 
 ## Tech
