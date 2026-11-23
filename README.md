@@ -22,7 +22,7 @@ My best repositories are pinned below.
 ## Hackathons
 
 - BEST Hackathon 2025 – [smart-city-gdansk](https://github.com/praha6248/smart-city-gdansk), an interactive map of Gdańsk
-- HackNation 2026 – [odwolania2Json](https://github.com/praha6248/odwolania2Json)
+- HackNation 2026 – [odwolania2Json](https://github.com/praha6248/odwolania2Json): converts public procurement appeal case files (PDFs and scans) into JSON matching the UZP schemas. Recognises document types, extracts fields with rules kept in YAML, runs OCR on CPU, highlights the source of every value in the PDF, checks the three documents of a case against each other (including the appeal deadline), anonymises PDFs, exports to Excel and offers optional verification by a local LLM. F1 of 0.994 on 30 real scans; Windows installer included.
 - HackYeah 2026 – [Focus Map](https://thirdplaces.pl), a map of places to study and work
 
 ## Tech
